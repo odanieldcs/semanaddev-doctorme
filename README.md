@@ -6,8 +6,8 @@ Neste documento você encontra a relação de requisitos do projeto da 2ª Ediç
 - [x] Aula 02, em 05/Jun às 09h - Programada
 - [x] Aula 03, em 07/Jun às 09h
 - [x] [Live 01 em 03/Jun às 19h](https://danieldcs.com/2sdv-live1) - Realizada
-- [x] Live 03 em 05/Jun às 19h
-- [x] Live 05 em 07/Jun às 19h
+- [x] Live 02 em 05/Jun às 19h - Programada
+- [x] Live 02 em 07/Jun às 19h
 
 ## Requisitos da API
 
