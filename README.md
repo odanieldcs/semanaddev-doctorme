@@ -2,6 +2,15 @@
 
 Neste documento você encontra a relação de requisitos do projeto da 2ª Edição do evento, o link para alguns scripts utilizados durante o evento, arquivos do layout e informações úteis.
 
+- [x] [Aula 1 em 03/Jun](https://danieldcs.com/2sdv-aula1) - Liberada
+- [x] Aula 02, em 05/Jun às 09h
+- [x] Aula 03, em 07/Jun às 09h
+- [x] [Live 01 em 03/Jun às 19h](https://danieldcs.com/2sdv-live1) - Programada
+- [x] Live 02 em 04/Jun às 19h
+- [x] Live 03 em 05/Jun às 19h
+- [x] Live 04 em 06/Jun às 19h
+- [x] Live 05 em 07/Jun às 19h
+
 ## Requisitos da API
 
 A API deve garantir:
