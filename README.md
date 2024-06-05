@@ -2,11 +2,11 @@
 
 Neste documento você encontra a relação de requisitos do projeto da 2ª Edição do evento, o link para alguns scripts utilizados durante o evento, arquivos do layout e informações úteis.
 
-- [x] [Aula 1 em 03/Jun](https://danieldcs.com/2sdv-aula1) - Liberada
-- [x] Aula 02, em 05/Jun às 09h - Programada
+- [x] [Aula 01 em 03/Jun](https://danieldcs.com/2sdv-aula1) - Liberada
+- [x] [Aula 02 em 05/Jun](https://danieldcs.com/2sdv-aula2) - Liberada
 - [x] Aula 03, em 07/Jun às 09h
 - [x] [Live 01 em 03/Jun às 19h](https://danieldcs.com/2sdv-live1) - Realizada
-- [x] Live 02 em 05/Jun às 19h - Programada
+- [x] [Live 02 em 05/Jun às 19h](https://danieldcs.com/2sdv-live2) - Agendada
 - [x] Live 02 em 07/Jun às 19h
 
 ## Links úteis
