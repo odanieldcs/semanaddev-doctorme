@@ -1,11 +1,7 @@
 import { type SVGProps } from 'react';
+import { type IconName } from '@/types/name';
 
-export type IconName =
-	| 'appointment'
-	| 'arrow-left'
-	| 'eye-off'
-	| 'eye-on'
-	| 'map';
+export { IconName };
 
 // type
 type IconProps = Readonly<{
@@ -33,7 +29,7 @@ export function Icon({
 	// return icon svg
 	return (
 		<svg {...props}>
-			<use href={`./sprite.svg#${name}`} />
+			<use href={`./icons/sprite.svg#${name}`} />
 		</svg>
 	);
 }
