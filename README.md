@@ -9,6 +9,10 @@ Neste documento você encontra a relação de requisitos do projeto da 2ª Ediç
 - [x] Live 02 em 05/Jun às 19h - Programada
 - [x] Live 02 em 07/Jun às 19h
 
+## Links úteis
+
+[Figma, ferramenta para abrir o design do projeto.](https://figma.com/)
+
 ## Requisitos da API
 
 A API deve garantir:
