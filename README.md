@@ -4,10 +4,11 @@ Neste documento você encontra a relação de requisitos do projeto da 2ª Ediç
 
 - [x] [Aula 01 em 03/Jun](https://danieldcs.com/2sdv-aula1) - Liberada
 - [x] [Aula 02 em 05/Jun](https://danieldcs.com/2sdv-aula2) - Liberada
-- [x] Aula 03, em 07/Jun às 09h
+- [x] [Aula 03 em 07/Jun](https://danieldcs.com/2sdv-aula3) - Liberada
+- [ ] Aula Bônus, mais informações na live do dia 07/Jun
 - [x] [Live 01 em 03/Jun às 19h](https://danieldcs.com/2sdv-live1) - Realizada
-- [x] [Live 02 em 05/Jun às 19h](https://danieldcs.com/2sdv-live2) - Agendada
-- [x] Live 02 em 07/Jun às 19h
+- [x] [Live 02 em 05/Jun às 19h](https://danieldcs.com/2sdv-live2) - Realizada
+- [x] [Live 03 em 07/Jun às 19h](https://danieldcs.com/2sdv-live3) - Programada
 
 ## Links úteis
 
